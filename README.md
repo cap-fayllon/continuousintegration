@@ -1,2 +1,0 @@
-# continuousintegration
-# LEHGO JENKINS
